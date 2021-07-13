@@ -15,5 +15,3 @@ As the former Office of the Chief Technology Officer, InnovationX has a history 
 InnovationX partners with all sectors of society to tackle the nation’s most challenging health issues and deliver evidence-based, data-driven solutions. Change in healthcare happens with collaboration, data-driven insights, and human centered design. 
 
 For inquiries, contact [innovation@hhs.gov](mailto:innovation@hhs.gov).
-
-## Core Values
