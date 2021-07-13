@@ -76,31 +76,51 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-  - name: Core Projects
+    children:
+      - name: About Us
+        url: /about/
+      - name: Our Team
+        url: /ourteam/
+      - name: Mission Statement and Core Values
+        url: /mission/
+      - name: Current Portfolio
+        url: /currentportfolio/
+  - name: Current Portfolio
     children:
       - name: COVID-19 Data-Driven Innovation
-        url: /resources/covid-19-data-innovation/
-      - name: Lyme Innovation
-        url: /resources/lymeinnovation/
+        url: /resources/covid19/
+      - name: Lyme Innovation and LymeX Innovation Accelerator
+        url: /resources/lymex/
       - name: KidneyX
         url: /resources/kidneyx/
       - name: Health+
         url: /resources/health+/
-  - name: Open Innovation
+      - name: Drivers of Inequity
+        url: /resources/socialdeterminants/
+  - name: Approach
     url: /operations/
     children:
-      - name: About Open Innovation
+      - name: Human-Centered Design
+        url: /resources/health+/
+      - name: Sprints
+        url: /sprints/
+      - name: Open Innovation
         url: /operations/
-      - name: Ignite Accelerator
+      - name: Partnerships
+        url: /partnerships/
+      - name: Accelerator Model
         url: /operations/ignite-accelerator/
-      - name: Innovation "Tours of Duty"
+      - name: Tours of Duty
         url: /operations/innovation-tours-of-duty/
       - name: Innovation/Demo/Startup Days
         url: /operations/startup-days/
-  - name: Blog
-    url: /blog/
-  - name: About
-    url: /about/
+  - name: News
+    url: /news/
+    children:
+      - name: News
+        url: /news/
+      - name: Calendar of Events
+        url: /calendar/
 
 # secondary_navigation:
 #   - name: COVID Data Hub
