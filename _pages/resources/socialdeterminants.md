@@ -1,10 +1,10 @@
 ---
-title: Social Determinants of Health
+title: Drivers of Inequity
 layout: page
 sidenav: true
 ---
 
-# Social Determinants of Health
+# Drivers of Inequity
 
 Social Determinants of Health (SdoH) tackles the longest standing and costliest problems in health. We use data-driven and innovation methods to address root causes of health disparities and identify systemic discrimination and poverty related to health population. 
 
